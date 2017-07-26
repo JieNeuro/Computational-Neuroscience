@@ -1,1 +1,1 @@
-# Computational-Neuroscience
+# Coursera_CompNeuro
